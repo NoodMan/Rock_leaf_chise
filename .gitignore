@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # globs
 Makefile.in
 *.userprefs
@@ -403,3 +404,28 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+=======
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> e493017849621795b361daa8c7df50042903fb7d
